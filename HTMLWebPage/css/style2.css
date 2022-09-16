@@ -1,0 +1,30 @@
+html{
+    font-size: 14px;
+    font-family: 'open Sans', sans-serif;
+    background-color: darkblue;
+}
+body{
+width: 800px;
+margin: 0 auto;
+background-color: #ff9500;
+padding: 0px 20px 20px 20px;
+border: 5px solid black;
+}
+
+h1{
+margin: 0;
+padding:20px 0;
+color: #00539f;
+font-size: 60px;
+text-align: center;
+}
+img{
+display: block;
+margin:0 auto;
+
+}
+p, li{
+font-size:16px;
+line-height: 2;
+letter-spacing: 1px;
+}
